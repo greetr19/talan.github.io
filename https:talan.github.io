@@ -130,7 +130,7 @@
 
 <section>
   <h2>About Me</h2>
-  <p>Hello! I'm Talan Greeno, a first-year college student at the University of Wisconsin Green Bay, who loves writing about fun and scary stories!</p>
+  <p>Hello! I'm Talan Greeno, a first-year college student at the University of Wisconsin Green Bay, majoring in creative writing. My passion is about writing fun and scary stories!</p>
 </section>
 
 <section>
